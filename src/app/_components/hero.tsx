@@ -20,7 +20,7 @@ export function Hero(){
                     <div className='space-y-6'>
                         <h1 data-aos="fade-down" className="text-3xl md:text-4xl lg:text-5xl font-bold leading-10">Seu pet merece cuidado, carinho e atenção especial</h1>
                         <p className="lg: text-lg">
-                            Oferecemos os melhores serviços para garantir o bem-estar e a felidade do seu amigo de quatro patas
+                            Oferecemos os melhores serviços para garantir o bem-estar e a felicidade do seu amigo de quatro patas
                         </p>
                         
                             <a target='_blank' href={`https://wa.me/556799998800?text=Olá vim pelo site e gostaria de mais informações`} className="bg-green-500 px-5 py-2 rounded-md font-semibold flex items-center justify-center w-fit gap-2"> <WhatsappLogo className='w-5 h-5'/>Contato via WhatsApp</a>
